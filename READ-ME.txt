@@ -1,11 +1,11 @@
-  =>  Template Name    : DotCom - Creative Agency Website Template
+  =>  Website Name    : Ngando Workers Construction Company
 
-  =>  Template Link    : https://htmlcodex.com/creative-agency-website-template
+  =>  Website Link    : https://ngandocompany.com
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Website License : https://ngandocompany.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Website Author  : Tobias Mutuku
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://Tobiasentreprenuer.com
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About Tobias Mutuku : Tobias Mutuku is one of the top creators and publishers of HTML websites, HTML landing pages, HTML email templates and HTML snippets in Malindi. Read more at ( https://Tobiasentreprenuer.com/about-us )
