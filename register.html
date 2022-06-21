@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Ngandocompany -blog deatils</title>
+    <title>Ngandocompany -Registration</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -23,6 +23,22 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <style type="text/css">
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background-image: url("img/kijani1.jpg");
+            background-position: center;
+            background-size: cover;
+            font-family: sans-serif;
+            margin-top: auto;
+        }
+        *form-group{
+
+        }
+    </style>
 </head>
 
 <body>
@@ -115,13 +131,44 @@
                         <label for="name">SurName *</label>
                         <input type="text" class="form-control" id="Surname">
                     </div>
+                    Gender
+                    <div class="form-group">
+                        <label for="Male">Male *</label>
+                        <input type="radio"  name="gender" class="form-control" id="Male" value="Male">
+                    </div>
+                    <div class="form-group">
+                        <label for="Female">Female*</label>
+                        <input type="radio" name="gender" class="form-control" id="Female" value="Female">
+                    </div>
+                    <div class="form-group">
+                        <label for="age">Age *</label>
+                        <input type="number" class="form-control" id="age">
+                    </div>
+                    <div class="form-group">
+                        <label for="Date Of Birth">Date of Birth*</label>
+                        <input type="date" name="date" class="form-control" id="date" min="1990-01-01">
+                    </div>
                     <div class="form-group">
                         <label for="email">Email Address *</label>
-                        <input type="email" class="form-control" id="email address">
+                        <input type="email" class="form-control" id="email  ">
                     </div>
                     <div class="form-group">
                         <label for="phone number">Phone number (+254...) *</label>
-                        <input type="text" class="form-control" id="(+254..)">
+                        <input type="number" class="form-control" id="(+254)..">
+                    </div>
+                    <div>
+                        <label for="Upload Profile Photo"> Upload Profile Photo</label>
+                        <input type="file" name="Upload Profile Photo" id="file">
+                    </div>
+                    <div
+                    <label for="SELECT COURSE"> SELECT COURSE</label>
+                    <select name="SELECT COURSE" id="SELECT COURSE" multiple>
+                        <option value="ARCHITECTURE" ARCHITECTURE</option>
+                        <option label="ARCHITECTURE" ARCHITECTURE</option>
+                        <option label="BULDING & CONSTRUCTION" BULDING & CONSTRUCTION</option>
+                        <option label="PLUMBING" PLUMBING</option>
+                        <option label="ELECTRICAL" ELECTRICAL</option>
+                    </select>
                     </div>
                     <div class="form-group">
                         <label for="message">Message *</label>
